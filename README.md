@@ -58,7 +58,7 @@ Ten projekt jest udostępniany na licencji MIT. Szczegółowe informacje znajdzi
 Kontakt
 
     YouTube: [Vertikal](https://www.youtube.com/@vertikal537/featured)
-    GitHub: Twój profil
+    GitHub: [4Vertikal4](https://github.com/4Vertikal4)
 
 ⭐ Jeśli te materiały są pomocne, rozważ zostawienie gwiazdki dla repozytorium!
 
