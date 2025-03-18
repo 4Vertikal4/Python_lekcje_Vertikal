@@ -12,19 +12,35 @@ Aby uruchomić przykłady, potrzebujesz Pythona w wersji 3.13.
 
 ```bash
 # Klonowanie repozytorium
-git clone https://github.com/twoja-nazwa-użytkownika/nazwa-repozytorium.git
+git clone https://github.com/4Vertikal4/Python_lekcje_Vertikal.git
 
 # Przejście do katalogu projektu
-cd nazwa-repozytorium
+cd Python_lekcje_Vertikal
 
 # Opcjonalnie - utworzenie wirtualnego środowiska
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
 # lub
-venv\Scripts\activate  # Windows
+# Dla Windows (Command Prompt):
+venv\Scripts\activate
+
+# Dla Windows (PowerShell):
+.\venv\Scripts\Activate.ps1
 
 # Instalacja wymaganych pakietów
 pip install -r requirements.txt
+
+# Przejdź do katalogu wybranej lekcji
+cd lekcja-01-generator-nazw
+
+# Uruchom przykładowy kod
+python generator_nazw.py
+
+
+#### Wskazówki:
+- **Wirtualne środowisko** izoluje zależności projektu od systemowych, co jest dobrą praktyką
+- Jeśli masz problem z aktywacją środowiska w PowerShell, może być konieczne włączenie wykonywania skryptów: `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
+- Komendy w terminalu są różne dla różnych systemów operacyjnych - wybierz odpowiednią dla swojego
 ```
 
 Struktura repozytorium
