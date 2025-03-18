@@ -53,6 +53,7 @@ Każdy katalog lekcji zawiera:
 | 04 | Gra w kółko i krzyżyk | W przygotowaniu | Wkrótce |
 
 ...	...	...	...
+
 Jak korzystać z repozytorium
 
     Wybierz lekcję, która Cię interesuje
