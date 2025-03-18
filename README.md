@@ -30,8 +30,11 @@ pip install -r requirements.txt
 Struktura repozytorium
 Każda lekcja znajduje się w osobnym katalogu z odpowiednią numeracją:
 
-    lekcja-01-podstawy/ - Wprowadzenie do Pythona
-    lekcja-02-zmienne/ - Zmienne i typy danych
+- `lekcja-01-generator-nazw/` - Generator Nazw Firm w Pythonie - Twój Pierwszy Projekt!
+- `lekcja-02-kalkulator-paliwo/` - Kalkulator Zrzutki na Paliwo w Pythonie
+- `lekcja-03-wiedzmin-przygoda/` - Instrukcje warunkowe - Przygoda w świecie Wiedźmina
+- `lekcja-04-kolko-krzyzyk/` - Implementacja gry w kółko i krzyżyk (w przygotowaniu)
+- Planuję więcej lekcji w przyszłości (na razie przynajmniej 10)
     ...
 
 Każdy katalog lekcji zawiera:
@@ -40,10 +43,15 @@ Każdy katalog lekcji zawiera:
     Plik README z dodatkowymi informacjami i linkiem do filmu
     Zadania dodatkowe (jeśli dostępne)
 
-Lista lekcji
-Nr	Temat	Link do filmu	Kod
-01	Podstawy Pythona	YouTube	Kod
-02	Zmienne i typy danych	YouTube	Kod
+## Lista lekcji
+
+| Nr | Temat | Link do filmu | Kod |
+|----|-------|---------------|-----|
+| 01 | Generator Nazw Firm w Pythonie - Twój Pierwszy Projekt! | [YouTube](https://youtu.be/Xhax22aEEgQ) | [Wkrótce](#) |
+| 02 | Kalkulator Zrzutki na Paliwo w Pythonie! | [YouTube](https://youtu.be/kVExIJ3WLfI) | [Wkrótce](#) |
+| 03 | Instrukcje warunkowe - Stwórz swoją przygodę w świecie Wiedźmina | [YouTube](https://youtu.be/8CEfPKXmxHA) | [Wkrótce](#) |
+| 04 | Gra w kółko i krzyżyk | W przygotowaniu | Wkrótce |
+
 ...	...	...	...
 Jak korzystać z repozytorium
 
