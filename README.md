@@ -55,9 +55,9 @@ Każda lekcja znajduje się w osobnym katalogu z odpowiednią numeracją:
 
 Każdy katalog lekcji zawiera:
 
-    Pełny kod źródłowy
-    Plik README z dodatkowymi informacjami i linkiem do filmu
-    Zadania dodatkowe (jeśli dostępne)
+1. Pełny kod źródłowy
+2. Plik README z dodatkowymi informacjami i linkiem do filmu
+3. Zadania dodatkowe (jeśli dostępne)
 
 ## Lista lekcji
 
@@ -72,10 +72,10 @@ Każdy katalog lekcji zawiera:
 
 Jak korzystać z repozytorium
 
-    Wybierz lekcję, która Cię interesuje
-    Przejdź do odpowiedniego katalogu
-    Zapoznaj się z plikiem README dla danej lekcji
-    Uruchom przykłady kodu używając Pythona
+1. Wybierz lekcję, która Cię interesuje
+2. Przejdź do odpowiedniego katalogu
+3. Zapoznaj się z plikiem README dla danej lekcji
+4. Uruchom przykłady kodu używając Pythona
 
 Zachęcam do eksperymentowania z kodem i wprowadzania własnych modyfikacji!
 Licencja
