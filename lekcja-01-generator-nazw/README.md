@@ -49,4 +49,6 @@ print("Nazwa Twojej firmy to: " + zwierze + " " + usługa)
 3. Walidacja danych: Sprawdź, czy użytkownik wprowadził niepuste wartości.
 4. Alternatywne nazwy: Wygeneruj 3 różne propozycje nazw na podstawie wprowadzonych danych.
 
+... ... ... ...
+
 To jest pierwsza lekcja z serii "Python dla początkujących". Kolejne lekcje będą budować na tych podstawach.
