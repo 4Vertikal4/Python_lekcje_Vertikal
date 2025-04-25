@@ -1,5 +1,5 @@
 ## Generator Nazw Firm - Lekcja 1
-Opis
+
 Ten prosty program w Pythonie tworzy nazwy firm na podstawie danych wprowadzonych przez użytkownika. Jest to przykład podstawowego wykorzystania funkcji input() oraz łączenia stringów (konkatenacji).
 
 ## Czego się nauczysz
