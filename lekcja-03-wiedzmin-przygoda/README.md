@@ -23,23 +23,41 @@ Znajdziesz go w pliku lekcja-03-wiedzmin-przygoda/wiedzmin_przygoda.py
 
 **Witaj, Geralt! Zostałeś wezwany do wioski Podgórze. Mieszkańcy są terroryzowani przez potwora.**
 **Sołtys prosi Cię o pomoc. Co robisz?**
+
 *1. Przyjmujesz zlecenie. 2. Odmawiasz.*
+
 1
+
 **Wyruszasz do lasu w poszukiwaniu potwora.**
+
 **Nagle słyszysz szelest w krzakach. Co robisz?**
+
 *1. Atakujesz. 2. Czekasz.*
+
 2
+
 **Z krzaków wychodzi przestraszony wieśniak. Opowiada Ci o legowisku potwora.**
+
 **Mówi, że potwór ukrywa się w starej, opuszczonej kapliczce na wzgórzu.**
+
 **Wieśniak ostrzega, że kapliczka jest nawiedzona i straszy tam.**
+
 *1. Idziesz do kapliczki. 2. Wracasz do wioski po pomoc.*
+
 1
+
 **Wchodzisz do kapliczki. Jest ciemno i czuć stęchlizną.**
+
 **Nagle słyszysz szelest i widzisz czerwone oczy w ciemności!**
+
 *1. Atakujesz potwora. 2. Używasz znaku Igni, żeby go przepłoszyć.*
+
 2
+
 **Używasz znaku Igni! Potwór wyje z bólu i ucieka!**
+
 **Znajdujesz w kapliczce skarb ukryty przez potwora!**
+
 **Wracasz do wioski jako bohater! Wygrałeś!**
 
 ## Link do filmu
