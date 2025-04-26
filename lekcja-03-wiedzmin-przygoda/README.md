@@ -29,7 +29,6 @@ Znajdziesz go w pliku lekcja-03-wiedzmin-przygoda/wiedzmin_przygoda.py
 1
 
 **Wyruszasz do lasu w poszukiwaniu potwora.**
-
 **Nagle słyszysz szelest w krzakach. Co robisz?**
 
 *1. Atakujesz. 2. Czekasz.*
@@ -37,9 +36,7 @@ Znajdziesz go w pliku lekcja-03-wiedzmin-przygoda/wiedzmin_przygoda.py
 2
 
 **Z krzaków wychodzi przestraszony wieśniak. Opowiada Ci o legowisku potwora.**
-
 **Mówi, że potwór ukrywa się w starej, opuszczonej kapliczce na wzgórzu.**
-
 **Wieśniak ostrzega, że kapliczka jest nawiedzona i straszy tam.**
 
 *1. Idziesz do kapliczki. 2. Wracasz do wioski po pomoc.*
@@ -47,7 +44,6 @@ Znajdziesz go w pliku lekcja-03-wiedzmin-przygoda/wiedzmin_przygoda.py
 1
 
 **Wchodzisz do kapliczki. Jest ciemno i czuć stęchlizną.**
-
 **Nagle słyszysz szelest i widzisz czerwone oczy w ciemności!**
 
 *1. Atakujesz potwora. 2. Używasz znaku Igni, żeby go przepłoszyć.*
@@ -55,9 +51,7 @@ Znajdziesz go w pliku lekcja-03-wiedzmin-przygoda/wiedzmin_przygoda.py
 2
 
 **Używasz znaku Igni! Potwór wyje z bólu i ucieka!**
-
 **Znajdujesz w kapliczce skarb ukryty przez potwora!**
-
 **Wracasz do wioski jako bohater! Wygrałeś!**
 
 ## Link do filmu
