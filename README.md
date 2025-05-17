@@ -63,10 +63,10 @@ Każdy katalog lekcji zawiera:
 
 | Nr | Temat | Link do filmu | Kod |
 |----|-------|---------------|-----|
-| 01 | Generator Nazw Firm w Pythonie - Twój Pierwszy Projekt! | [YouTube](https://youtu.be/Xhax22aEEgQ) | [Wkrótce](#) |
-| 02 | Kalkulator Zrzutki na Paliwo w Pythonie! | [YouTube](https://youtu.be/kVExIJ3WLfI) | [Wkrótce](#) |
-| 03 | Instrukcje warunkowe - Stwórz swoją przygodę w świecie Wiedźmina | [YouTube](https://youtu.be/8CEfPKXmxHA) | [Wkrótce](#) |
-| 04 | Gra w kółko i krzyżyk | W przygotowaniu | Wkrótce |
+| 01 | Generator Nazw Firm w Pythonie - Twój Pierwszy Projekt! | [YouTube](https://youtu.be/Xhax22aEEgQ) | [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-01-generator-nazw/generator_nazw.py) |
+| 02 | Kalkulator Zrzutki na Paliwo w Pythonie! | [YouTube](https://youtu.be/kVExIJ3WLfI) | [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-02-kalkulator-paliwo/kalkulator_paliwo.py) |
+| 03 | Instrukcje warunkowe - Stwórz swoją przygodę w świecie Wiedźmina | [YouTube](https://youtu.be/8CEfPKXmxHA) | [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-03-wiedzmin-przygoda/wiedzmin_przygoda.py) |
+| 04 | Gra w kółko i krzyżyk | [YouTube](https://youtu.be/Y3A_Qm_dw40)| [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-04-kolko-krzyzyk/kolko_krzyzyk.py) |
 
 ...	...	...	...
 
