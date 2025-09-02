@@ -49,7 +49,8 @@ Każda lekcja znajduje się w osobnym katalogu z odpowiednią numeracją:
 - `lekcja-01-generator-nazw/` - Generator Nazw Firm w Pythonie - Twój Pierwszy Projekt!
 - `lekcja-02-kalkulator-paliwo/` - Kalkulator Zrzutki na Paliwo w Pythonie
 - `lekcja-03-wiedzmin-przygoda/` - Instrukcje warunkowe - Przygoda w świecie Wiedźmina
-- `lekcja-04-kolko-krzyzyk/` - Implementacja gry w kółko i krzyżyk (w przygotowaniu)
+- `lekcja-04-kolko-krzyzyk/` - Implementacja gry w kółko i krzyżyk
+- `lekcja-05-generator-kard` - Generator testowych kart kredytowych
 - Planuję więcej lekcji w przyszłości (na razie przynajmniej 10)
     ...
 
@@ -63,10 +64,11 @@ Każdy katalog lekcji zawiera:
 
 | Nr | Temat | Link do filmu | Kod |
 |----|-------|---------------|-----|
-| 01 | Generator Nazw Firm w Pythonie - Twój Pierwszy Projekt! | [YouTube](https://youtu.be/Xhax22aEEgQ) | [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-01-generator-nazw/generator_nazw.py) |
-| 02 | Kalkulator Zrzutki na Paliwo w Pythonie! | [YouTube](https://youtu.be/kVExIJ3WLfI) | [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-02-kalkulator-paliwo/kalkulator_paliwo.py) |
-| 03 | Instrukcje warunkowe - Stwórz swoją przygodę w świecie Wiedźmina | [YouTube](https://youtu.be/8CEfPKXmxHA) | [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-03-wiedzmin-przygoda/wiedzmin_przygoda.py) |
-| 04 | Gra w kółko i krzyżyk | [YouTube](https://youtu.be/Y3A_Qm_dw40)| [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-04-kolko-krzyzyk/kolko_krzyzyk.py) |
+| 01 | Generator Nazw Firm w Pythonie - Twój Pierwszy Projekt! | [YouTube](https://youtu.be/xiroovATbt4) | [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-01-generator-nazw/generator_nazw.py) |
+| 02 | Kalkulator Zrzutki na Paliwo w Pythonie! | [YouTube](https://youtu.be/zNJlTxCnIh0) | [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-02-kalkulator-paliwo/kalkulator_paliwo.py) |
+| 03 | Instrukcje warunkowe - Stwórz swoją przygodę w świecie Wiedźmina | [YouTube](https://youtu.be/q-wZjqEKtI4) | [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-03-wiedzmin-przygoda/wiedzmin_przygoda.py) |
+| 04 | Gra w kółko i krzyżyk | [YouTube](https://youtu.be/VVWvhv-ofvg)| [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-04-kolko-krzyzyk/kolko_krzyzyk.py) |
+| 05 | Generator testowych kart kredytowych
 
 ...	...	...	...
 
