@@ -21,11 +21,10 @@ Znajdziesz go w pliku lekcja-04-kolko-krzyzyk/kolko_krzyzyk.py
 - Inicjalizacja planszy - program tworzy pustą planszę jako listę 9 elementów
 - Wyświetlanie instrukcji - pokazuje numerację pól (1-9) dla łatwiejszej nawigacji
 - Główna pętla gry:
-a) Gracz wybiera pole wpisując numer od 1 do 9
-b) Program sprawdza poprawność ruchu
-c) Komputer wykonuje losowy ruch na wolnym polu
-d) Po każdym ruchu sprawdzane są warunki wygranej
-e) Zakończenie - gra kończy się wygraną jednego z graczy lub remisem
+   * **Ruch gracza** - gracz wybiera pole wpisując numer od 1 do 9
+   * **Walidacja** - program sprawdza poprawność ruchu
+   * **Ruch komputera** - komputer wykonuje losowy ruch na wolnym polu
+   * **Sprawdzenie wygranej** - po każdym ruchu sprawdzane są warunki wygranej
 - Zakończenie - gra kończy się wygraną jednego z graczy lub remisem
 
 ## Przykładowy przebieg gry
@@ -86,8 +85,9 @@ Gratulacje! Wygrałeś!
 ```
 
 ## Link do filmu
-[Obejrzyj lekcję na YouTube](no link yet)
+[Obejrzyj lekcję na YouTube](https://youtu.be/VVWvhv-ofvg)
 
 ... ... ... ...
 
 To jest czwarta lekcja z serii "Python dla początkujących". W tej lekcji połączyliśmy wszystkie dotychczasowe koncepcje w funkcjonalną grę!
+
