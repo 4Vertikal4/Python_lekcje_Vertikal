@@ -103,8 +103,8 @@ def main():
     print("=" * 50)
     print("GENERATOR TESTOWYCH KART KREDYTOWYCH")
     print("=" * 50)
-    print("⚠️  UWAGA: To są numery TYLKO do testów!")
-    print("⚠️  NIE używaj ich do prawdziwych transakcji!")
+    print("UWAGA: To są numery TYLKO do testów!")
+    print("NIE używaj ich do prawdziwych transakcji!")
     print("=" * 50)
     print()
     
@@ -132,8 +132,8 @@ def main():
     print(f"Typ: {typ_karty.upper()}")
     
     print("\n" + "=" * 50)
-    print("📌 Pamiętaj: To jest karta TESTOWA!")
-    print("📌 Używaj tylko do testowania aplikacji!")
+    print("Pamiętaj: To jest karta TESTOWA!")
+    print("Używaj tylko do testowania aplikacji!")
     print("=" * 50)
 
 if __name__ == "__main__":
