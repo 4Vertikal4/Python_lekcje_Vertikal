@@ -43,7 +43,7 @@ print(f"Każda osoba powinna zapłacić: {kwota_zaokraglona} zł")
 **Każda osoba powinna zapłacić: 50.0 zł**
 
 ## Link do filmu
-[Obejrzyj lekcję na YouTube](https://www.youtube.com/watch?v=kVExIJ3WLfI)
+[Obejrzyj lekcję na YouTube](https://youtu.be/zNJlTxCnIh0)
 
 Zadania dodatkowe
 
@@ -55,3 +55,4 @@ Zadania dodatkowe
 ... ... ... ...
 
 To jest druga lekcja z serii "Python dla początkujących". Kolejne lekcje będą wprowadzać bardziej zaawansowane koncepcje programowania.
+

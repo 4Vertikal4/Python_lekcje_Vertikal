@@ -40,7 +40,7 @@ print("Nazwa Twojej firmy to: " + zwierze + " " + usługa)
 **Nazwa Twojej firmy to: Panda Programowanie**
 
 ## Link do filmu
-[Obejrzyj lekcję na YouTube](https://youtu.be/Xhax22aEEgQ)
+[Obejrzyj lekcję na YouTube](https://youtu.be/xiroovATbt4)
 
 ## Zadania dodatkowe
 
@@ -52,3 +52,4 @@ print("Nazwa Twojej firmy to: " + zwierze + " " + usługa)
 ... ... ... ...
 
 To jest pierwsza lekcja z serii "Python dla początkujących". Kolejne lekcje będą budować na tych podstawach.
+

@@ -56,7 +56,7 @@ Znajdziesz go w pliku lekcja-03-wiedzmin-przygoda/wiedzmin_przygoda.py
 
 ## Link do filmu
 
-[Obejrzyj lekcję na YouTube](https://youtu.be/8CEfPKXmxHA)
+[Obejrzyj lekcję na YouTube](https://youtu.be/q-wZjqEKtI4)
 
 Zadania dodatkowe
 
@@ -68,3 +68,4 @@ Zadania dodatkowe
 ... ... ... ...
 
 To jest trzecia lekcja z serii "Python dla początkujących". Kolejne lekcje będą wprowadzać bardziej zaawansowane koncepcje programowania.
+
