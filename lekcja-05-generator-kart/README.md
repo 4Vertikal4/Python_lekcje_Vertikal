@@ -49,6 +49,7 @@ Algorytm Luhna to matematyczna metoda walidacji numerów kart kredytowych:
 
 ## Przykładowy przebieg programu
 
+```
 ================================================== GENERATOR TESTOWYCH KART KREDYTOWYCH
 
 UWAGA: To są numery TYLKO do testów! NIE używaj ich do prawdziwych transakcji!
@@ -70,7 +71,7 @@ Właściciel: Anna Kowalski
 Typ: VISA
 
 ================================================== Pamiętaj: To jest karta TESTOWA! Używaj tylko do testowania aplikacji!
-
+```
 
 ## Zastosowania praktyczne
 
