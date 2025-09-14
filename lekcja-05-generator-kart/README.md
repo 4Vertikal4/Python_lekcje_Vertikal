@@ -62,7 +62,9 @@ Data ważności: 08/27
 
 CVV/CVC: 342 
 
-Właściciel: Anna Kowalski Typ: VISA
+Właściciel: Anna Kowalski 
+
+Typ: VISA
 
 ================================================== Pamiętaj: To jest karta TESTOWA! Używaj tylko do testowania aplikacji!
 
