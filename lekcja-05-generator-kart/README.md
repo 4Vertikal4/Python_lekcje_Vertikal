@@ -57,8 +57,11 @@ Wybierz typ karty: 1 - Visa 2 - Mastercard 3 - American ExpressTwój wybór (1-3
 ================================================== WYGENEROWANA KARTA TESTOWA:
 
 Numer karty: 4539 1488 0343 6467 
+
 Data ważności: 08/27 
+
 CVV/CVC: 342 
+
 Właściciel: Anna Kowalski Typ: VISA
 
 ================================================== Pamiętaj: To jest karta TESTOWA! Używaj tylko do testowania aplikacji!
