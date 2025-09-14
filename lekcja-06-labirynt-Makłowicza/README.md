@@ -1,4 +1,4 @@
-# Makłowicz w Labiryncie Kuchni - Algorytm Nawigacji w Pythonie - Lekcja 6
+# Labirynt Makłowicza - Algorytm Nawigacji w Pythonie - Lekcja 6
 
 ## Opis
 Ten program to humorystyczna symulacja Roberta Makłowicza nawigującego przez labirynt własnej kuchni. Program demonstruje praktyczne zastosowanie algorytmów nawigacji, pętli while, instrukcji warunkowych if/elif oraz pracy z dwuwymiarowymi strukturami danych.
