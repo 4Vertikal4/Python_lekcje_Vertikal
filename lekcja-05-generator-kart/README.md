@@ -52,7 +52,10 @@ Algorytm Luhna to matematyczna metoda walidacji numerów kart kredytowych:
 ================================================== GENERATOR TESTOWYCH KART KREDYTOWYCH
 
 UWAGA: To są numery TYLKO do testów! NIE używaj ich do prawdziwych transakcji!
-Wybierz typ karty: 1 - Visa 2 - Mastercard 3 - American ExpressTwój wybór (1-3): 1
+
+Wybierz typ karty: 1 - Visa 2 - Mastercard 3 - American Express
+
+Twój wybór (1-3): 1
 
 ================================================== WYGENEROWANA KARTA TESTOWA:
 
