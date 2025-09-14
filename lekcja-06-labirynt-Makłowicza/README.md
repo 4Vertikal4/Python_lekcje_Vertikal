@@ -88,4 +88,4 @@ Program zawiera charakterystyczne komentarze przy ruchach:
 
 ---
 
-To jest szósta lekcja z serii "Python dla początkujących". W tej autorskiej wersji łączymy podstawowe koncepty programowania z polską popkulturą, pokazując że nauka programowania może być równie satysfakcjonująca co dobry obiad przygotowany według przepisu Makłowicza!
+To jest szósta lekcja z serii "Python dla początkujących". Pokazujemy że nauka programowania może być równie satysfakcjonująca co dobry obiad przygotowany według przepisu Makłowicza!
