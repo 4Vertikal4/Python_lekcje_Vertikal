@@ -83,14 +83,6 @@ Program zawiera charakterystyczne komentarze przy ruchach:
 - **Debugowanie** - śledzenie wykonania programu krok po kroku
 - **Wizualizacja algorytmów** - zrozumienie jak komputer "myśli" o przestrzeni
 
-## Możliwe rozszerzenia
-
-- Dodanie interaktywności - sterowanie Makłowiczem klawiaturą
-- Implementacja algorytmu BFS/DFS dla optymalnej ścieżki
-- Dodanie przedmiotów do zebrania (wino, masło, papryka)
-- Generowanie losowych labiryntów
-- System punktacji za najmniejszą liczbę kroków
-
 ## Link do filmu
 [Obejrzyj lekcję na YouTube](#) *(link zostanie dodany po publikacji)*
 
