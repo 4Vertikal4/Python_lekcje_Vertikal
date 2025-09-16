@@ -84,7 +84,7 @@ Program zawiera charakterystyczne komentarze przy ruchach:
 - **Wizualizacja algorytmów** - zrozumienie jak komputer "myśli" o przestrzeni
 
 ## Link do filmu
-[Obejrzyj lekcję na YouTube](#) *(link zostanie dodany po publikacji)*
+[Obejrzyj lekcję na YouTube](https://youtu.be/ASn3v-orThc)
 
 ---
 
