@@ -163,4 +163,5 @@ Dziękuję za grę! Do zobaczenia!
 
 ---
 
-To jest siódma lekcja z serii "Python dla początkujących". Pokazujemy, że tworzenie gier logicznych to świetny sposób na naukę programowania - każda linia kodu przybliża nas do rozwiązania, jak każda próba przybliża gracza do odgadnięcia tajnej liczby!
+To jest siódma lekcja z serii "Python dla początkujących". Pokazuje, że tworzenie gier logicznych to świetny sposób na naukę programowania - każda linia kodu przybliża nas do rozwiązania, jak każda próba przybliża gracza do odgadnięcia tajnej liczby!
+
