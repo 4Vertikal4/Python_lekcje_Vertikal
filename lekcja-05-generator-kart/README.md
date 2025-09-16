@@ -81,7 +81,7 @@ Typ: VISA
 - **Rozwój aplikacji** - testowanie integracji z systemami płatności
 
 ## Link do filmu
-[Obejrzyj lekcję na YouTube](#) *(link zostanie dodany po publikacji)*
+[Obejrzyj lekcję na YouTube](https://youtu.be/DWVB6PbZjog)
 
 ---
 
