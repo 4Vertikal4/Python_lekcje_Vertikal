@@ -159,9 +159,10 @@ Dziękuję za grę! Do zobaczenia!
 - **UI w konsoli** - tworzenie czytelnego interfejsu tekstowego
 
 ## Link do filmu
-[Obejrzyj lekcję na YouTube](#) *(link zostanie dodany po publikacji)*
+[Obejrzyj lekcję na YouTube](https://youtu.be/S7Rd_QNgzPQ)
 
 ---
 
 To jest siódma lekcja z serii "Python dla początkujących". Pokazuje, że tworzenie gier logicznych to świetny sposób na naukę programowania - każda linia kodu przybliża nas do rozwiązania, jak każda próba przybliża gracza do odgadnięcia tajnej liczby!
+
 
