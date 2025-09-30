@@ -116,8 +116,9 @@ Wpisz nazwę produktu: laptop
 - Python jest jednym z najpopularniejszych języków do web scrapingu i analizy cen
 
 ## Link do filmu
-[Obejrzyj lekcję na YouTube](#) *(link zostanie dodany po publikacji)*
+[Obejrzyj lekcję na YouTube](https://youtu.be/OM2FdiuHySY) 
 
 ---
 
 To jest dziewiąta lekcja z serii "Python dla początkujących". Pokazuje, jak tworzyć praktyczne aplikacje biznesowe używając słowników i algorytmów. Od prostego projektu edukacyjnego do prawdziwej aplikacji e-commerce - jeden krok!
+
