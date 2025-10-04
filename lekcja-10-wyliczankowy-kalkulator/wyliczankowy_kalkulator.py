@@ -106,7 +106,7 @@ def tryb_wyliczankowy():
     
     # Wybierz losową wyliczankę dla pierwszej liczby
     wyliczanka1 = random.choice([
-        "Ene due like fake, torba borba ósme smake",
+        "Ene due rike fake, torba borba ósme smake",
         "Jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem",
         "Idzie kominiarz po drabinie, fiku miku na drabinie"
     ])
