@@ -51,7 +51,7 @@ Każda lekcja znajduje się w osobnym katalogu z odpowiednią numeracją:
 - `lekcja-03-wiedzmin-przygoda/` - Instrukcje warunkowe - Przygoda w świecie Wiedźmina
 - `lekcja-04-kolko-krzyzyk/` - Implementacja gry w kółko i krzyżyk
 - `lekcja-05-generator-kard` - Generator testowych kart kredytowych
-- Planuję więcej lekcji w przyszłości (na razie przynajmniej 10)
+- I tak dalej...
     ...
 
 Każdy katalog lekcji zawiera:
@@ -68,7 +68,12 @@ Każdy katalog lekcji zawiera:
 | 02 | Kalkulator Zrzutki na Paliwo w Pythonie! | [YouTube](https://youtu.be/zNJlTxCnIh0) | [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-02-kalkulator-paliwo/kalkulator_paliwo.py) |
 | 03 | Instrukcje warunkowe - Stwórz swoją przygodę w świecie Wiedźmina | [YouTube](https://youtu.be/q-wZjqEKtI4) | [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-03-wiedzmin-przygoda/wiedzmin_przygoda.py) |
 | 04 | Gra w kółko i krzyżyk | [YouTube](https://youtu.be/VVWvhv-ofvg)| [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-04-kolko-krzyzyk/kolko_krzyzyk.py) |
-| 05 | Generator testowych kart kredytowych
+| 05 | Generator testowych kart kredytowych | [YouTube](https://youtu.be/DWVB6PbZjog)| [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-05-generator-kart/generator_kart.py)
+| 06 | Labirynt Makłowicza | [YouTube](https://youtu.be/ASn3v-orThc)| [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-06-labirynt-Mak%C5%82owicza/labirynt_mak%C5%82owicza.py)
+| 07 | Byki i Krowy | [Youtube](https://youtu.be/S7Rd_QNgzPQ)| [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-07-byki-i-krowy/byki_i_krowy.py)
+| 08 | Szyfr GA-DE-RY-PO-LU-KI | [Youtube](https://youtu.be/6A3kbjwuiYc)| [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-08-tworzenie-szyfru-GA-DE-RY-PO-LU-KI/szyfr-gaderypoluki.py)
+| 09 | Mini Ceneo | [Youtube](https://youtu.be/OM2FdiuHySY)| [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/blob/main/lekcja-09-mini-ceneo/mini_ceneo.py)
+| 10 | Kalkulator Wyliczankowy | [Youtube](https://youtu.be/nB2uyo8sDUY)| [Kod](https://github.com/4Vertikal4/Python_lekcje_Vertikal/tree/main/lekcja-10-wyliczankowy-kalkulator)
 
 ...	...	...	...
 
